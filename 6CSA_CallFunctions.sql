@@ -1,8 +1,5 @@
 /*
-Author: Catherine Ackerson 
-Date: 12/7/2017
-Class: CIS276DB 26870
-Final Project
+Author: Catikia
 Call Functions 1
 */
 
